@@ -1,6 +1,6 @@
 # Restaurant List
 用Node.js和express完成的專案，列出餐廳清單供使用者查詢並瀏覽餐廳資訊。
-![image](https://raw.githubusercontent.com/wuhsinyu/S2-3A1/main/public/image/restaurant_list.jpeg)
+![image](https://raw.githubusercontent.com/wuhsinyu311/S2-3A1/main/public/image/restaurant_list.jpeg)
 
 ## Features
 - 查看所有用restaurant api串接的餐廳
