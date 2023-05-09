@@ -22,7 +22,7 @@ app.use(express.static('public'))
     const restaurant = restaurantList.results.find(
       restaurant => restaurant.id.toString() === req.params.restaurant_id
     )  
-    res.render('show', { restaurant: restaurant })
+    res.render('show', { restaurant })
   })
 
   app.get('/search', (req, res) => {
